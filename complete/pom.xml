@@ -69,7 +69,7 @@
       <id>central</id>
       <name>libs-deploy</name>
       <url>https://naveen7077.jfrog.io/artifactory/libs-deploy</url>
-      <layout>legacy</layout>
+      <layout>default</layout>
     </snapshotRepository>
     ...
   </distributionManagement>
