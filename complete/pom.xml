@@ -71,7 +71,6 @@
       <url>https://naveen7077.jfrog.io/artifactory/libs-deploy</url>
       <layout>default</layout>
     </snapshotRepository>
-    ...
   </distributionManagement>
 
 </project>
